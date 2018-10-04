@@ -10,9 +10,9 @@
             </h1>
 
             <h2 class="subtitle" style="font-size: 15px">
-              I`m a developer and a CS student at the <a href="#">University of Bristol 🇬🇧</a>
+              I`m a developer and a CS student at the <strong>University of Bristol 🇬🇧</strong>
               <br>
-              I enjoy working with the web 🖥 and mobile 📱.
+              I enjoy working with the <strong>web</strong> 🖥 and <strong>mobile</strong> 📱.
               I would love to hear from you!
             </h2>
             
